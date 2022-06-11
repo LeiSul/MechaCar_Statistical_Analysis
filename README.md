@@ -18,3 +18,10 @@ all manufacturing lots in total and each lot individually? Why or why not?
 ## T-Tests on Suspension Coils
 summarize interpretation and findings (include screen shots)
 
+Deliverable 4:
+The statistical study design has the following:
+A metric to be tested is mentioned (5 pt)
+A null hypothesis or an alternative hypothesis is described (5 pt)
+A statistical test is described to test the hypothesis (5 pt)
+The data for the statistical test is described 
+
