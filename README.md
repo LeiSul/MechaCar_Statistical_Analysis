@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
-#### Resources: 
-RStudios
+#### Resources: *RStudio*
+
 ![autosRUs image](resources/autosRus.png)
 ## Analysis Overview:
 AutosRUs is utilizing a data analytics review based on previous, current and future launch efforts for a new line. The analysis 
